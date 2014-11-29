@@ -1,2 +1,2 @@
-require('.src/angular-route.min.js');
+require('./src/angular-route.min.js');
 module.exports = angular
